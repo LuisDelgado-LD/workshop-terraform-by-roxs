@@ -23,6 +23,7 @@
 # 🌱 **Primer Set de Desafíos Prácticos con Terraform**
 
 Este conjunto de actividades está diseñado para introducirte al mundo de la **Infraestructura como Código (IaC)** de una manera práctica, simple y con resultados visibles desde el primer día. ¡Aquí comienza tu camino como DevOps!
+
 Link de la sesión [Workshop Terraform Nivel 100 Grabación Completa desde Teams](https://www.youtube.com/watch?v=W_AhJ3HAjKM)
 
 ---
